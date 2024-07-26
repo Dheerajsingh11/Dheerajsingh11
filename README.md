@@ -21,7 +21,7 @@ Exploring new technologies and want to work on exciting projects! 🚀 Check out
 - **Technologies**: Web Automation, Machine Learning, Web Development
 
 ### :fire: My Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dheerajsingh11)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dheerajsingh11&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 ###
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dheerajsingh11&theme=dark&background=000000)](https://git.io/streak-stats)
 ###
