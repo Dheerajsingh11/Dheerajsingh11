@@ -12,6 +12,13 @@ Exploring new technologies and want to work on exciting projects! 🚀 Check out
 
 - [Java Algorithms]([link](https://github.com/Dheerajsingh11/Java)) - This project is my journey in learning Basis Java. Also I will focus on Data structures and algorithm with Java and will update my progress in this repository.
 
+# Skills
+- [Languages]: Java, Python, C++, ABAP
+- [Front-end]: HTML, CSS, Javascript(Basic)
+- [DataBase]: MySQL
+- [Tools]: Selenium
+- [Technologies]: Web Automation, Machine Learning, Web Development
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/dheeraj-singh-a4aa1a12b)
