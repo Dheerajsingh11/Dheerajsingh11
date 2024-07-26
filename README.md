@@ -29,5 +29,7 @@ Exploring new technologies and want to work on exciting projects! 🚀 Check out
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/dheeraj-singh-a4aa1a12b)
+<p align="left">
+<a href="https://www.linkedin.com/in/dheeraj-singh-a4aa1a12b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav giriman gour" height="30" width="40" /></a>
+</p>
 
