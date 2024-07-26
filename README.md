@@ -10,7 +10,8 @@ Exploring new technologies and want to work on exciting projects! 🚀 Check out
 
 ## Projects
 
-- [Java Algorithms]([link](https://github.com/Dheerajsingh11/Java)) - This project is my journey in learning Basis Java. Also I will focus on Data structures and algorithm with Java and will update my progress in this repository.
+- [Java Algorithms]([link](https://github.com/Dheerajsingh11/Java)) - This repository chronicles my journey in learning the fundamentals of Java. I’ll also delve into data structures and algorithms, continuously updating this space with my progress and insights.
+- I’m embarking on a journey to explore and work with a diverse range of technologies through various projects. I’ll be documenting and sharing my learning process and experiences here. Stay tuned for updates on my progress and discoveries!
 
 # Skills
 - **Languages**: Java, Python, C++, ABAP
